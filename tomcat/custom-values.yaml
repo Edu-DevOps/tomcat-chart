@@ -1,3 +1,4 @@
 service:
   type: NodePort
-  nodePorts.http: 8888
+  nodePorts:
+    http: 8888
