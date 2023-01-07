@@ -1,4 +1,4 @@
 service:
   type: NodePort
   nodePorts:
-    http: 8888
+    http: 30081
